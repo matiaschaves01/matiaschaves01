@@ -2,7 +2,8 @@
 
 ## 💜 Hola, mi nombre es <strong>{Matias Chaves}!</strong>
 
-
+Aquí un entusiasta desarrollador con ganas de afrontar nuevos desafíos, al que le gustaría formar parte de un equipo. 
+Estoy entusiasmado por comenzar mi carrera profesional y contribuir con mi granito de arena.
 
 
 
@@ -23,5 +24,5 @@
  
 </p>
 
-
+### 👀 visitor count
 
