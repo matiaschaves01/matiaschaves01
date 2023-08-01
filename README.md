@@ -5,10 +5,3 @@
 </p>
 
 
-<p align="left">
-  💼 herramientas: **Coloque as suas ferramentas de trabalho.**
-</p>
-
-<p align="left">
-  💌 
-</p>
