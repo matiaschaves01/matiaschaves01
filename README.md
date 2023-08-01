@@ -24,4 +24,4 @@ Estoy entusiasmado por comenzar mi carrera profesional y contribuir con mi grani
 Donde encontrarme
 
 [![Linkedin](https://img.shields.io/badge/-matiaschaves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matiaschaves/)](https://www.linkedin.com/in/matiaschaves/)
-[![Gmail Badge](https://img.shields.io/badge/-matiaschaves01@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matiaschaves01@gmail.com)](mailto:matiaschaves01@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white=mailto:matiaschaves01@gmail.com)](mailto:matiaschaves01@gmail.com)
