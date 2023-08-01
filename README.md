@@ -6,9 +6,6 @@ Aquí un entusiasta desarrollador con ganas de afrontar nuevos desafíos, al que
 Estoy entusiasmado por comenzar mi carrera profesional y contribuir con mi granito de arena.
 
 
-
-
-
 <p align="left"> 
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
@@ -21,10 +18,10 @@ Estoy entusiasmado por comenzar mi carrera profesional y contribuir con mi grani
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
- 
-</p>
+ </p>
 
 
-### 👀 visitor count
+Donde encontrarme
 
-https://camo.githubusercontent.com/634fe28311221851fa5e9d1fa4d3773dbd8565fc436dfa9ea2a776141e135163/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f68617961742d74616d626f6c692f636f756e742e737667
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/matiaschaves/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:matiaschaves01@gmail.com)
