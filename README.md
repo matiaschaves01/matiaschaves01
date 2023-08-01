@@ -2,10 +2,13 @@
 
 ## 💜 Hola, mi nombre es <strong>{Matias Chaves}!</strong>
 
-Aquí un entusiasta desarrollador con ganas de afrontar nuevos desafíos, al que le gustaría formar parte de un equipo. 
+Aquí un entusiasta desarrollador con ganas de afrontar nuevos desafíos, al que le gustaría formar parte de un equipo y 
+demostrar todo mi potencial. 
 Estoy entusiasmado por comenzar mi carrera profesional y contribuir con mi granito de arena.
 
+<br>
 
+## Tecnologias-
 <p align="left"> 
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
@@ -20,8 +23,20 @@ Estoy entusiasmado por comenzar mi carrera profesional y contribuir con mi grani
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
  </p>
 
+<br>
 
-Donde encontrarme
+## 📫 Conectemos y Charlemos
 
-[![Linkedin](https://img.shields.io/badge/-matiaschaves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matiaschaves/)](https://www.linkedin.com/in/matiaschaves/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=emailto:matiaschaves01@gmail.com)](mailto:matiaschaves01@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiaschaves/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matiaschaves01@gmail.com)
+<br>
+<br>
+
+## CONTADOR DE VISITAS- 👀
+ <br>
+
+<img src="https://profile-counter.glitch.me/matiaschaves/count.svg" alt="Hello world" />
+
+
+
+<img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
