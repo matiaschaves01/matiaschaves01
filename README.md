@@ -4,7 +4,7 @@
 
 Aquí un entusiasta desarrollador con ganas de afrontar nuevos desafíos, al que le gustaría formar parte de un equipo y 
 demostrar todo mi potencial. 
-Estoy entusiasmado por comenzar mi carrera profesional y contribuir con mi granito de arena.
+Estoy motivado por comenzar mi carrera profesional y contribuir con mi granito de arena.
 
 <br>
 
